@@ -1,0 +1,19 @@
+{
+    "name": "lidiya/logger",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Lidiya Larchenko",
+            "email": "lababina@ngs.ru"
+        }
+    ],
+	"require-dev": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Logger\\": "src/Logger"
+        }
+    }
+}
