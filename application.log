@@ -1,0 +1,10 @@
+2020-01-10T16:01:29+03:00  001  ERROR  Error message
+2020-01-10T16:01:29+03:00  001  ERROR  Error message
+2020-01-10T16:01:29+03:00  002  INFO  Info message
+2020-01-10T16:01:29+03:00  002  INFO  Info message
+2020-01-10T16:01:29+03:00  003  DEBUG  Debug message
+2020-01-10T16:01:29+03:00  003  DEBUG  Debug message
+2020-01-10T16:01:29+03:00  004  NOTICE  Notice message
+2020-01-10T16:01:29+03:00  004  NOTICE  Notice message
+2020-01-10T16:01:29+03:00  002  INFO  Info message from FileLogger
+2020-01-10T16:01:29+03:00  002  INFO  Info message from FileLogger
